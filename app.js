@@ -7,7 +7,9 @@ const userRouter = require('./api/routes/user');
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://spyadavg:JB0LbAYuPFpGBvGr@cluster0.gi9rs.mongodb.net/?retryWrites=true&w=majority');
+let db = "mongodb+srv://spyadavg:JB0LbAYuPFpGBvGr@cluster0.gi9rs.mongodb.net/?retryWrites=true&w=majority"
+
+mongoose.connect(db);
 
 
 
