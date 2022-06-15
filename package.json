@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spyadav14699/ThinkZy-react-project-with-node.git"
+    "url": "git+https://github.com/spyadav14699/Thinkzy-backend.git"
   },
   "keywords": [
     "restfull",
@@ -18,9 +18,9 @@
   "author": "Surya Pratap Yadav",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/spyadav14699/ThinkZy-react-project-with-node/issues"
+    "url": "https://github.com/spyadav14699/Thinkzy-backend/issues"
   },
-  "homepage": "https://github.com/spyadav14699/ThinkZy-react-project-with-node#readme",
+  "homepage": "https://github.com/spyadav14699/Thinkzy-backend#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "body-parser": "^1.20.0",
